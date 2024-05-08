@@ -9,3 +9,4 @@ We can verify and add email addresses to the list to which we want to send the e
 As soon as the file is uploaded on the AWS S3 storage, 
 an event of AWS Lambda will be triggered which will send the mails using AWS SES service. 
 We will use Python to write the AWS Lambda function.
+![image](https://github.com/kuk-84/Mass-Emailing-Using-AWS-Lambda-/assets/89506759/969ce4c3-f961-4cc9-a5c1-08301f5a9338)
